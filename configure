@@ -1,0 +1,7 @@
+#!/bin/bash
+ARCH=`uname -m`
+if [ "$ARCH" = "armv7l" ] ; then
+    sed -i 's/^LIBDIR.*/LIBDIR = \/usr\/lib\/arm-linux-gnueabihf/g; /^$/d' Makefile
+else 
+    sed -i 's/^LIBDIR.*/LIBDIR = \/usr\/lib\/x86_64-linux-gnu/g; /^$/d' Makefile
+fi
