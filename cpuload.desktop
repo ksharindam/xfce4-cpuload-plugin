@@ -1,0 +1,10 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+Name=CPU Load Monitor
+Comment=Monitors CPU Usage as graph
+Icon=drive-harddisk
+X-XFCE-Module=cpuload
+X-XFCE-Internal=true
+X-XFCE-Unique=false
+X-XFCE-API=2.0
