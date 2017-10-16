@@ -22,4 +22,4 @@ To uninstall run...
 After installing go to panel settings and add this plugin to your panel.
 
 ### Screenshot
-![cpu-load.png](https://)
+![cpu-load.png](https://raw.githubusercontent.com/ksharindam/xfce4-cpuload-plugin/master/cpu-load.png)
