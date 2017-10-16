@@ -9,7 +9,8 @@ install these build dependencies...
 
 Unzip the source archive.  
 Open terminal and change directory to xfce4-cpuload-plugin-master directory.  
-run this command...  
+Run this command...  
+`./configure`
 `make`
 
 ### Install and Uninstall
