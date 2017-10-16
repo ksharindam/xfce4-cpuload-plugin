@@ -8,7 +8,7 @@
 #include <libxfce4panel/xfce-panel-plugin.h>
 
 #define BORDER_SIZE 1
-#define PLUGIN_WIDTH 42
+#define PLUGIN_WIDTH 44
 #define FG_COLOR "rgb(0,205,0)"                 // Color names are found in X11 rgb.txt
 #define BG_COLOR "white"
 #define FONT_SIZE 12
