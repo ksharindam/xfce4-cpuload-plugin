@@ -5,7 +5,7 @@ CPU load plugin for XFCE4 panel (graph and percentage)
 install these build dependencies...  
 * libgtk-3-dev  
 * libxfce4panel-2.0-dev  
-* libasound2-dev
+
 
 Unzip the source archive.  
 Open terminal and change directory to xfce4-cpuload-plugin-master directory.  
